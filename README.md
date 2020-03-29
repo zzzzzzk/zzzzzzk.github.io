@@ -1,2 +1,3 @@
-# zzzzzzk.github.io
-JohnChang's Blog
+JohnChang's Blog @ zzzzzzk.github.io
+====================================
+
